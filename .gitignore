@@ -1,0 +1,9 @@
+*.class
+*.log
+Log.txt
+exceptions_log.txt
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
